@@ -299,6 +299,7 @@
   "shifts": [
     {
       "id": 0,
+      "name":"SHIFT I",
       "start_date": "2021-06-20",
       "end_date": "2021-06-27",
       "trainerId": 0,
@@ -316,6 +317,7 @@
     },
     {
       "id": 1,
+      "name":"SHIFT II",
       "start_date": "2021-06-27",
       "end_date": "2021-07-04",
       "trainerId": 1,
@@ -333,6 +335,7 @@
     },
     {
       "id": 2,
+      "name":"SHIFT III",
       "start_date": "2021-07-04",
       "end_date": "2021-07-11",
       "trainerId": 0,
@@ -350,6 +353,7 @@
     },
     {
       "id": 3,
+      "name":"SHIFT IV",
       "start_date": "2021-07-11",
       "end_date": "2021-07-18",
       "latitude": 48.1234,
@@ -366,6 +370,7 @@
     },
     {
       "id": 4,
+      "name":"SHIFT V",
       "start_date": "2021-07-18",
       "end_date": "2021-07-25",
       "latitude": 48.1234,
@@ -382,6 +387,7 @@
     },
     {
       "id": 5,
+      "name":"SHIFT VI",
       "start_date": "2021-07-25",
       "end_date": "2021-08-01",
       "latitude": 48.1234,
@@ -398,6 +404,7 @@
     },
     {
       "id": 6,
+      "name":"SHIFT VII",
       "start_date": "2021-08-01",
       "end_date": "2021-08-08",
       "latitude": 48.1234,
