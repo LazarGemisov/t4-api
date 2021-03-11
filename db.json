@@ -493,118 +493,55 @@
     },
     {
       "id": 10,
-      "first_name": "Vladimir",
-      "last_name": "Mišković",
-      "image": "http://www.teo4.rs/wp-content/uploads/2020/08/Vladimir-Mišković-600x600.jpg",
-      "current_club": ""
-    },
-    {
-      "id": 11,
-      "first_name": "Igor",
-      "last_name": "Maljković",
-      "image": "http://www.teo4.rs/wp-content/uploads/2020/08/Igor-Maljković.jpg",
-      "current_club": ""
-    },
-    {
-      "id": 12,
-      "first_name": "Luka",
-      "last_name": "Pavlović",
-      "image": "http://www.teo4.rs/wp-content/uploads/2020/08/Luka-Pavlović.jpg",
-      "current_club": ""
-    },
-    {
-      "id": 13,
-      "first_name": "Aleksandar",
-      "last_name": "Ranković",
-      "image": "http://www.teo4.rs/wp-content/uploads/2020/08/Aleksandar-Ranković-700x650.png",
-      "current_club": ""
-    },
-    {
-      "id": 14,
       "first_name": "Vladan",
       "last_name": "Stoiljković",
       "image": "http://www.teo4.rs/wp-content/uploads/2020/08/Vladan-Stojiljkovic.png",
       "current_club": ""
     },
     {
-      "id": 15,
-      "first_name": "Ivan",
-      "last_name": "Papić",
-      "image": "http://www.teo4.rs/wp-content/uploads/2020/08/Ivan-Papić.png",
-      "current_club": ""
-    },
-    {
-      "id": 16,
-      "first_name": "Saša",
-      "last_name": "Milićević",
-      "image": "http://www.teo4.rs/wp-content/uploads/2020/08/Saša-Milićević.jpg",
-      "current_club": ""
-    },
-    {
-      "id": 17,
+      "id": 11,
       "first_name": "Aleksandar",
       "last_name": "Gajić",
       "image": "http://www.teo4.rs/wp-content/uploads/2020/07/Aleksandar-Gajic.jpg",
       "current_club": ""
     },
     {
-      "id": 18,
-      "first_name": "Aleksandar",
-      "last_name": "Icić",
-      "image": "http://www.teo4.rs/wp-content/uploads/2018/09/Aleksandar-Icić.jpg",
-      "current_club": ""
-    },
-    {
-      "id": 19,
+      "id": 12,
       "first_name": "Dejan",
       "last_name": "Šuković",
       "image": "http://www.teo4.rs/wp-content/uploads/2020/07/Dejan-Sukovic.jpg",
       "current_club": ""
     },
     {
-      "id": 20,
-      "first_name": "Zoran",
-      "last_name": "Todorović",
-      "image": "http://www.teo4.rs/wp-content/uploads/2018/09/Zoran-Todorović.jpg",
-      "current_club": ""
-    },
-    {
-      "id": 21,
-      "first_name": "Srđan",
-      "last_name": "Flajs",
-      "image": "http://www.teo4.rs/wp-content/uploads/2018/09/Trener-Srdjan-Flajs.jpg",
-      "current_club": ""
-    },
-    {
-      "id": 22,
+      "id": 13,
       "first_name": "Aleksandar",
       "last_name": "Petrović",
       "image": "http://www.teo4.rs/wp-content/uploads/2018/09/Aleksandar-Petrovic.jpg",
       "current_club": ""
     },
     {
-      "id": 23,
+      "id": 14,
       "first_name": "Marko",
       "last_name": "Dimitrijević",
       "image": "http://www.teo4.rs/wp-content/uploads/2020/07/Marko-Dimitrijevic-.jpg",
       "current_club": ""
     },
     {
-      "id": 24,
+      "id": 15,
       "first_name": "Zoran",
       "last_name": "Trivan",
       "image": "http://www.teo4.rs/wp-content/uploads/2018/09/Zoran-Trivan.png",
       "current_club": ""
     },
     {
-      "id": 25,
+      "id": 16,
       "first_name": "Oliver",
       "last_name": "Popović",
       "image": "http://www.teo4.rs/wp-content/uploads/2018/09/Oliver-Popovic.jpg",
       "current_club": ""
     },
     {
-      "id": 26,
+      "id": 17,
       "first_name": "Saša",
       "last_name": "Pavlović",
       "image": "http://www.teo4.rs/wp-content/uploads/2020/07/Trener-Sasa-Pavlovic.jpg",
